@@ -1,0 +1,7 @@
+# ninja log v5
+4	493	7588431115908116	CMakeFiles/PEA4.dir/main.cpp.obj	b6602b3f2181efe
+12	599	7588431116966126	CMakeFiles/PEA4.dir/DistMatrix.cpp.obj	f45d4c0277945876
+17	798	7588431118949482	CMakeFiles/PEA4.dir/App.cpp.obj	6faf43eed60894d1
+8	845	7588431119419819	CMakeFiles/PEA4.dir/Config.cpp.obj	a58100a304ced8eb
+9	1548	7588441983358966	CMakeFiles/PEA4.dir/GeneticAlgo.cpp.obj	ee854ff3b7df8425
+1549	1652	7588441984359083	PEA4.exe	ac9e20ab4b142bf4

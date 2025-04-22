@@ -1,0 +1,3 @@
+C:/Users/Miłosz/CLionProjects/PEA4/cmake-build-release/CMakeFiles/PEA4.dir
+C:/Users/Miłosz/CLionProjects/PEA4/cmake-build-release/CMakeFiles/edit_cache.dir
+C:/Users/Miłosz/CLionProjects/PEA4/cmake-build-release/CMakeFiles/rebuild_cache.dir

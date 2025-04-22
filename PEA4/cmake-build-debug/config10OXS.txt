@@ -1,0 +1,12 @@
+# Ścieżka do pliku z macierzą odległości
+file_path=ftv170.atsp
+fileToSave=results10OXS.csv
+# Parametry do algorytmu genetycznego
+time_limit=120
+population_size=50
+crossover_probability=0.8
+mutation_probability=0.01
+# do wyboru: "PMX" lub "OX"
+crossover_type=OX
+# do wyboru: "swap" lub "inversion"
+mutation_type=swap
